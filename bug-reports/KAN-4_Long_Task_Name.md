@@ -39,3 +39,13 @@ No verified screenshot attached.
 - Update the Jira issue with the verified result.
 
 **Disclaimer:** This is a training bug report based on an earlier observation. It is not presented as a confirmed defect.
+
+## Jira Tracking
+
+**Jira issue key:** KAN-4
+**Project:** To-Do List QA
+**Access:** Private — authentication required
+
+This training issue was created and managed in Jira to practice bug reporting, comments, priorities, workflow statuses, and retesting documentation.
+
+The GitHub report is provided as a standalone portfolio example because the Jira issue is not publicly accessible.
