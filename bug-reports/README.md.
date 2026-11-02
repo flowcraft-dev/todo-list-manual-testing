@@ -1,0 +1,7 @@
+# Bug Reports
+
+This folder contains sample bug reports created during my manual QA training.
+
+The reports demonstrate bug documentation, expected and actual results, reproduction steps, and Jira workflow practice.
+
+**Note:** Training examples are clearly marked. Unverified observations are not presented as confirmed defects.
